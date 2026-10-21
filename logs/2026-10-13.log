@@ -1,0 +1,66 @@
+[2026-10-13T22:55:55.345Z] [info] ▶️ [tg8917928560] Цикл публикации запущен
+[2026-10-13T22:55:55.388Z] [success] [tg8917928560] API ключ получен
+[2026-10-13T22:55:55.391Z] [info] [tg8917928560] Модификация метаданных: 9407939_just check desc.mp4
+[2026-10-13T22:56:03.514Z] [success] [Watermark] Видео успешно обработано с водяным знаком
+[2026-10-13T22:56:03.515Z] [info] [tg8917928560] Метаданные: "Смотри в описании" / "https://telegra.ph/Smotri-luchshij-dtSkij-kontent-10-12
+https://telegra.ph/Smotri-luchshij-dtSkij-kontent-10-12
+https://telegra.ph/Smotri-luchshij-dtSkij-kontent-10-12"
+[2026-10-13T22:56:03.514Z] [success] [tg8917928560] Файл модифицирован
+[2026-10-13T22:56:03.516Z] [info] [tg8917928560] Загрузка: 9407939_just check desc.mp4
+[2026-10-13T22:56:04.106Z] [error] ❌ [tg8917928560] Ошибка 9407939_just check desc.mp4 (1/3): Account suspended
+[2026-10-13T22:56:04.163Z] [error] Ошибка отправки в TG: Request failed with status code 401
+[2026-10-13T22:56:04.163Z] [error] [tg8917928560] ❌ Резервных Cookie нет. Остановка из-за блокировки!
+[2026-10-13T22:56:04.165Z] [info] ⏹️ [tg8917928560] Цикл остановлен
+[2026-10-13T23:03:10.483Z] [success] [tg8917928560] Cookie обновлена
+[2026-10-13T23:03:23.921Z] [info] ▶️ [tg8964979145] Цикл публикации запущен
+[2026-10-13T23:03:23.974Z] [success] [tg8964979145] API ключ получен
+[2026-10-13T23:03:23.976Z] [info] [tg8964979145] Модификация метаданных: 9407939_just check desc.mp4
+[2026-10-13T23:03:32.022Z] [success] [Watermark] Видео успешно обработано с водяным знаком
+[2026-10-13T23:03:32.022Z] [success] [tg8964979145] Файл модифицирован
+[2026-10-13T23:03:32.022Z] [info] [tg8964979145] Метаданные: "Смотри в описании" / "https://telegra.ph/Smotri-luchshij-dtSkij-kontent-10-12
+https://telegra.ph/Smotri-luchshij-dtSkij-kontent-10-12
+https://telegra.ph/Smotri-luchshij-dtSkij-kontent-10-12"
+[2026-10-13T23:03:32.024Z] [info] [tg8964979145] Загрузка: 9407939_just check desc.mp4
+[2026-10-13T23:03:35.820Z] [info] 📝 saveMetadata: isVideo=true, title="Смотри в описании", caption="https://telegra.ph/Smotri-luchshij-dtSkij-kontent-...", fileId=8544368
+[2026-10-13T23:03:35.820Z] [info] 📝 POST body: title=%D0%A1%D0%BC%D0%BE%D1%82%D1%80%D0%B8%20%D0%B2%20%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B8&caption=https%3A%2F%2Ftelegra.ph%2FSmotri-luchshij-dtSkij-kontent-10-12%0Ahttps%3A%2F%2Ftelegra.p...
+[2026-10-13T23:03:35.843Z] [info] 📝 saveMetadata response: {"success":true,"name":"Смотри в описании","description":"https://telegra.ph/Smotri-luchshij-dtSkij-kontent-10-12<br/>https://telegra.ph/Smotri-luchshij-dtSkij-kontent-10-12<br/>https://telegra.ph/Smotri-luchshij-dtSkij-kontent-10-12"}
+[2026-10-13T23:03:35.843Z] [info] [tg8964979145] Метаданные сохранены
+[2026-10-13T23:03:38.980Z] [info] 🚀 publish response: {"success":true}
+[2026-10-13T23:03:38.981Z] [success] ✅ [tg8964979145] Опубликовано: 9407939_just check desc.mp4
+[2026-10-13T23:03:38.988Z] [info] [tg8964979145] Пауза 10 мин
+[2026-10-13T23:13:39.680Z] [success] [tg8964979145] API ключ получен
+[2026-10-13T23:13:39.682Z] [info] [tg8964979145] Модификация метаданных: 9432129_077.mp4
+[2026-10-13T23:13:45.820Z] [success] [Watermark] Видео успешно обработано с водяным знаком
+[2026-10-13T23:13:45.821Z] [success] [tg8964979145] Файл модифицирован
+[2026-10-13T23:13:45.821Z] [info] [tg8964979145] Метаданные: "Смотри в описании" / "t.me/zapretthis
+t.me/zapretthis
+t.me/zapretthis"
+[2026-10-13T23:13:45.822Z] [info] [tg8964979145] Загрузка: 9432129_077.mp4
+[2026-10-13T23:13:49.487Z] [info] 📝 saveMetadata: isVideo=true, title="Смотри в описании", caption="t.me/zapretthis
+t.me/zapretthis
+t.me/zapretthis...", fileId=8544388
+[2026-10-13T23:13:49.488Z] [info] 📝 POST body: title=%D0%A1%D0%BC%D0%BE%D1%82%D1%80%D0%B8%20%D0%B2%20%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B8&caption=t.me%2Fzapretthis%0At.me%2Fzapretthis%0At.me%2Fzapretthis&fileId=8544388&key=eyJ2IjoxLCJ1...
+[2026-10-13T23:13:49.516Z] [info] 📝 saveMetadata response: {"success":true,"name":"Смотри в описании","description":"t.me/zapretthis<br/>t.me/zapretthis<br/>t.me/zapretthis"}
+[2026-10-13T23:13:49.516Z] [info] [tg8964979145] Метаданные сохранены
+[2026-10-13T23:13:52.653Z] [info] 🚀 publish response: {"success":true}
+[2026-10-13T23:13:52.653Z] [success] ✅ [tg8964979145] Опубликовано: 9432129_077.mp4
+[2026-10-13T23:13:52.660Z] [info] [tg8964979145] Пауза 10 мин
+[2026-10-13T23:14:48.757Z] [warn] 🔄 Получена команда на перезапуск скрипта...
+[2026-10-13T23:14:50.014Z] [info] AutoCopy: Обнаружен исполняемый файл Python: python3
+[2026-10-13T23:14:50.035Z] [info] 🚀 Панель: http://localhost:80
+[2026-10-13T23:16:55.664Z] [success] [tg8964979145] Cookie обновлена
+[2026-10-13T23:17:20.308Z] [info] ▶️ [tg8863104846] Цикл публикации запущен
+[2026-10-13T23:17:20.350Z] [success] [tg8863104846] API ключ получен
+[2026-10-13T23:17:20.351Z] [info] [tg8863104846] Модификация метаданных: 9450830_AMAZING IN THE DESC.mp4
+[2026-10-13T23:17:20.537Z] [success] [Watermark] Видео успешно обработано с водяным знаком
+[2026-10-13T23:17:20.537Z] [success] [tg8863104846] Файл модифицирован
+[2026-10-13T23:17:20.538Z] [info] [tg8863104846] Метаданные: "Сочная" / ""
+[2026-10-13T23:17:20.540Z] [info] [tg8863104846] Загрузка: 9450830_AMAZING IN THE DESC.mp4
+[2026-10-13T23:17:23.820Z] [info] 📝 saveMetadata: isVideo=true, title="Сочная", caption="...", fileId=8544399
+[2026-10-13T23:17:23.820Z] [info] 📝 POST body: title=%D0%A1%D0%BE%D1%87%D0%BD%D0%B0%D1%8F&caption=&fileId=8544399&key=eyJ2IjoxLCJ1aWQiOjMxOTQ4MzcsInNpZCI6IjBhMDA2YTMzZWIyYTIyYTJmNmM0OTNhNDUzZDZkMDJkZDJmZTljYTgwNGJhMTI3YjIxY2I5ZjBjMDAxNmQ4YjEiLCJpY...
+[2026-10-13T23:17:23.842Z] [info] 📝 saveMetadata response: {"success":true,"name":"Сочная","description":""}
+[2026-10-13T23:17:23.842Z] [info] [tg8863104846] Метаданные сохранены
+[2026-10-13T23:17:26.976Z] [info] 🚀 publish response: {"success":true}
+[2026-10-13T23:17:26.977Z] [success] ✅ [tg8863104846] Опубликовано: 9450830_AMAZING IN THE DESC.mp4
+[2026-10-13T23:17:26.998Z] [info] [tg8863104846] Пауза 10 мин
+[2026-10-13T23:17:29.001Z] [info] ⏹️ [tg8863104846] Цикл остановлен

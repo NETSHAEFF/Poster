@@ -1,0 +1,148 @@
+[2026-10-14T12:02:35.430Z] [success] [tg8863104846] Cookie обновлена
+[2026-10-14T12:05:44.385Z] [success] [tg8863104846] Cookie обновлена
+[2026-10-14T12:05:53.092Z] [success] [tg8863104846] Cookie обновлена
+[2026-10-14T12:06:01.012Z] [success] [tg8863104846] Cookie обновлена
+[2026-10-14T12:06:12.984Z] [success] [tg8863104846] Cookie обновлена
+[2026-10-14T12:07:38.682Z] [success] [tg8863104846] Cookie обновлена
+[2026-10-14T12:08:35.706Z] [success] [tg8863104846] Cookie обновлена
+[2026-10-14T12:08:39.074Z] [info] ▶️ [tg8863104846] Цикл публикации запущен
+[2026-10-14T12:08:39.123Z] [success] [tg8863104846] API ключ получен
+[2026-10-14T12:08:39.126Z] [info] [tg8863104846] Модификация метаданных: 9407014_T33n.mp4
+[2026-10-14T12:08:39.346Z] [success] [Watermark] Видео успешно обработано с водяным знаком
+[2026-10-14T12:08:39.347Z] [success] [tg8863104846] Файл модифицирован
+[2026-10-14T12:08:39.348Z] [info] [tg8863104846] Метаданные: "Сочная" / ""
+[2026-10-14T12:08:39.350Z] [info] [tg8863104846] Загрузка: 9407014_T33n.mp4
+[2026-10-14T12:08:42.666Z] [info] 📝 saveMetadata: isVideo=true, title="Сочная", caption="...", fileId=8546320
+[2026-10-14T12:08:42.667Z] [info] 📝 POST body: title=%D0%A1%D0%BE%D1%87%D0%BD%D0%B0%D1%8F&caption=&fileId=8546320&key=eyJ2IjoxLCJ1aWQiOm51bGwsInNpZCI6IjhmMzFjMDVlZDliOGEyMWY4YzZiOThiNTRmOWQ0NzBiZDk3ODAyYzI0MzA4Y2IyM2I2ZWMwM2UzYTE4OTRlNjciLCJpYXQiO...
+[2026-10-14T12:08:42.689Z] [info] 📝 saveMetadata response: {"success":true,"name":"Сочная","description":""}
+[2026-10-14T12:08:42.689Z] [info] [tg8863104846] Метаданные сохранены
+[2026-10-14T12:08:45.705Z] [info] 🚀 publish response: {"success":false,"error":"authorization_failed"}
+[2026-10-14T12:08:45.705Z] [error] ❌ [tg8863104846] Ошибка 9407014_T33n.mp4 (1/3): Ошибка публикации: authorization_failed
+[2026-10-14T12:08:50.787Z] [success] [tg8863104846] API ключ получен
+[2026-10-14T12:08:50.789Z] [info] [tg8863104846] Модификация метаданных: 9407014_T33n.mp4
+[2026-10-14T12:08:50.873Z] [success] [Watermark] Видео успешно обработано с водяным знаком
+[2026-10-14T12:08:50.873Z] [success] [tg8863104846] Файл модифицирован
+[2026-10-14T12:08:50.873Z] [info] [tg8863104846] Метаданные: "Сочная" / ""
+[2026-10-14T12:08:50.875Z] [info] [tg8863104846] Загрузка: 9407014_T33n.mp4
+[2026-10-14T12:08:54.182Z] [info] 📝 saveMetadata: isVideo=true, title="Сочная", caption="...", fileId=8546321
+[2026-10-14T12:08:54.183Z] [info] 📝 POST body: title=%D0%A1%D0%BE%D1%87%D0%BD%D0%B0%D1%8F&caption=&fileId=8546321&key=eyJ2IjoxLCJ1aWQiOm51bGwsInNpZCI6IjIyMGFjMzE1MWZlNGI1MmE4NzE2NTllZmZjZTU0YWZkYjk0YmUwZjY5MDdkOTI3NWI4YjkzNTVkOGQ2NGVmZGIiLCJpYXQiO...
+[2026-10-14T12:08:54.210Z] [info] 📝 saveMetadata response: {"success":true,"name":"Сочная","description":""}
+[2026-10-14T12:08:54.211Z] [info] [tg8863104846] Метаданные сохранены
+[2026-10-14T12:08:57.226Z] [info] 🚀 publish response: {"success":false,"error":"authorization_failed"}
+[2026-10-14T12:08:57.227Z] [error] ❌ [tg8863104846] Ошибка 9407014_T33n.mp4 (2/3): Ошибка публикации: authorization_failed
+[2026-10-14T12:09:07.302Z] [success] [tg8863104846] API ключ получен
+[2026-10-14T12:09:07.305Z] [info] [tg8863104846] Модификация метаданных: 9407014_T33n.mp4
+[2026-10-14T12:09:07.397Z] [success] [Watermark] Видео успешно обработано с водяным знаком
+[2026-10-14T12:09:07.398Z] [success] [tg8863104846] Файл модифицирован
+[2026-10-14T12:09:07.398Z] [info] [tg8863104846] Метаданные: "Сочная" / ""
+[2026-10-14T12:09:07.400Z] [info] [tg8863104846] Загрузка: 9407014_T33n.mp4
+[2026-10-14T12:09:10.738Z] [info] 📝 saveMetadata: isVideo=true, title="Сочная", caption="...", fileId=8546324
+[2026-10-14T12:09:10.738Z] [info] 📝 POST body: title=%D0%A1%D0%BE%D1%87%D0%BD%D0%B0%D1%8F&caption=&fileId=8546324&key=eyJ2IjoxLCJ1aWQiOm51bGwsInNpZCI6IjZkYzMyMTRjOWM5NTUxZjlhMmM3NDgwZjIwMTllMTYwMmFmOWNjZWY0NmUzZjcxODZkMmIxMmEzYzZmMGMwNGYiLCJpYXQiO...
+[2026-10-14T12:09:10.762Z] [info] 📝 saveMetadata response: {"success":true,"name":"Сочная","description":""}
+[2026-10-14T12:09:10.762Z] [info] [tg8863104846] Метаданные сохранены
+[2026-10-14T12:09:13.778Z] [info] 🚀 publish response: {"success":false,"error":"authorization_failed"}
+[2026-10-14T12:09:13.778Z] [error] ❌ [tg8863104846] Ошибка 9407014_T33n.mp4 (3/3): Ошибка публикации: authorization_failed
+[2026-10-14T12:09:13.778Z] [error] ⛔ [tg8863104846] Пропуск: 9407014_T33n.mp4
+[2026-10-14T12:09:13.786Z] [info] [tg8863104846] Пауза 10 мин
+[2026-10-14T12:09:45.823Z] [info] ⏹️ [tg8863104846] Цикл остановлен
+[2026-10-14T12:09:46.725Z] [success] [tg8863104846] Cookie обновлена
+[2026-10-14T12:10:46.424Z] [info] ▶️ [tg8812311804] Цикл публикации запущен
+[2026-10-14T12:10:46.484Z] [success] [tg8812311804] API ключ получен
+[2026-10-14T12:10:46.486Z] [info] [tg8812311804] Модификация метаданных: 9406279_real content in desc__819.mp4
+[2026-10-14T12:10:46.762Z] [success] [Watermark] Видео успешно обработано с водяным знаком
+[2026-10-14T12:10:46.763Z] [success] [tg8812311804] Файл модифицирован
+[2026-10-14T12:10:46.763Z] [info] [tg8812311804] Метаданные: "Young girl fucked" / "https://t.me/zapretthis"
+[2026-10-14T12:10:46.765Z] [info] [tg8812311804] Загрузка: 9406279_real content in desc__819.mp4
+[2026-10-14T12:10:50.044Z] [info] 📝 saveMetadata: isVideo=true, title="Young girl fucked", caption="https://t.me/zapretthis...", fileId=8546328
+[2026-10-14T12:10:50.044Z] [info] 📝 POST body: title=Young%20girl%20fucked&caption=https%3A%2F%2Ft.me%2Fzapretthis&fileId=8546328&key=eyJ2IjoxLCJ1aWQiOjMxOTQ5OTksInNpZCI6IjBhMDA2YTMzZWIyYTIyYTJmNmM0OTNhNDUzZDZkMDJkZDJmZTljYTgwNGJhMTI3YjIxY2I5ZjBjM...
+[2026-10-14T12:10:50.078Z] [info] 📝 saveMetadata response: {"success":true,"name":"Young girl fucked","description":"https://t.me/zapretthis"}
+[2026-10-14T12:10:50.078Z] [info] [tg8812311804] Метаданные сохранены
+[2026-10-14T12:10:53.230Z] [info] 🚀 publish response: {"success":true}
+[2026-10-14T12:10:53.230Z] [success] ✅ [tg8812311804] Опубликовано: 9406279_real content in desc__819.mp4
+[2026-10-14T12:10:53.238Z] [info] [tg8812311804] Пауза 10 мин
+[2026-10-14T12:18:00.694Z] [info] ⏹️ [tg8812311804] Цикл остановлен
+[2026-10-14T15:45:10.019Z] [success] [tg8812311804] Cookie обновлена
+[2026-10-14T15:45:33.599Z] [info] ▶️ [H_Hudson] Цикл публикации запущен
+[2026-10-14T15:45:33.732Z] [success] [H_Hudson] API ключ получен
+[2026-10-14T15:45:33.734Z] [info] [H_Hudson] Модификация метаданных: 9407856_123312.mp4
+[2026-10-14T15:45:34.059Z] [success] [Watermark] Видео успешно обработано с водяным знаком
+[2026-10-14T15:45:34.059Z] [success] [H_Hudson] Файл модифицирован
+[2026-10-14T15:45:34.059Z] [info] [H_Hudson] Метаданные: "Young girl fucked" / "https://t.me/syropcaram"
+[2026-10-14T15:45:34.061Z] [info] [H_Hudson] Загрузка: 9407856_123312.mp4
+[2026-10-14T15:45:37.393Z] [info] 📝 saveMetadata: isVideo=true, title="Young girl fucked", caption="https://t.me/syropcaram...", fileId=8546943
+[2026-10-14T15:45:37.394Z] [info] 📝 POST body: title=Young%20girl%20fucked&caption=https%3A%2F%2Ft.me%2Fsyropcaram&fileId=8546943&key=eyJ2IjoxLCJ1aWQiOjMxOTUwMDAsInNpZCI6IjExNWYxZjUzZmIxN2FjYWUzYzhjZDhkODQxZGE3ZWNmMjM4MDFjMjE0OTAzZDdhZWI5OTZlNjIzY...
+[2026-10-14T15:45:37.416Z] [info] 📝 saveMetadata response: {"success":true,"name":"Young girl fucked","description":"https://t.me/syropcaram"}
+[2026-10-14T15:45:37.416Z] [info] [H_Hudson] Метаданные сохранены
+[2026-10-14T15:45:40.544Z] [info] 🚀 publish response: {"success":true}
+[2026-10-14T15:45:40.544Z] [success] ✅ [H_Hudson] Опубликовано: 9407856_123312.mp4
+[2026-10-14T15:45:40.553Z] [info] [H_Hudson] Пауза 10 мин
+[2026-10-14T15:46:27.607Z] [info] ⏹️ [H_Hudson] Цикл остановлен
+[2026-10-14T20:55:41.378Z] [success] [H_Hudson] Cookie обновлена
+[2026-10-14T20:56:18.902Z] [info] ✏️ [tg8999407970] Запуск пакетного обновления 99 медиафайлов (задержка 2с)...
+[2026-10-14T20:56:19.045Z] [success] ✅ [tg8999407970] [1/99] Обновлено: [9474037] "Follow the link!"
+[2026-10-14T20:56:21.127Z] [success] ✅ [tg8999407970] [2/99] Обновлено: [9474036] "Follow the link!"
+[2026-10-14T20:56:23.237Z] [success] ✅ [tg8999407970] [3/99] Обновлено: [9474035] "Follow the link!"
+[2026-10-14T20:56:25.341Z] [success] ✅ [tg8999407970] [4/99] Обновлено: [9474034] "Follow the link!"
+[2026-10-14T20:56:27.442Z] [success] ✅ [tg8999407970] [5/99] Обновлено: [9473862] "Follow the link!"
+[2026-10-14T20:56:29.536Z] [success] ✅ [tg8999407970] [6/99] Обновлено: [9473861] "Follow the link!"
+[2026-10-14T20:56:31.634Z] [success] ✅ [tg8999407970] [7/99] Обновлено: [9473860] "Follow the link!"
+[2026-10-14T20:56:33.715Z] [success] ✅ [tg8999407970] [8/99] Обновлено: [9473859] "Follow the link!"
+[2026-10-14T20:56:35.787Z] [success] ✅ [tg8999407970] [9/99] Обновлено: [9473858] "Follow the link!"
+[2026-10-14T20:56:37.883Z] [success] ✅ [tg8999407970] [10/99] Обновлено: [9473857] "Follow the link!"
+[2026-10-14T20:56:38.994Z] [warn] [BatchEdit] Запрошена остановка пакетного обновления для аккаунта #3
+[2026-10-14T20:56:39.085Z] [warn] ⏹️ [tg8999407970] Пакетное обновление прервано пользователем (10/99)
+[2026-10-14T20:56:39.086Z] [info] 🏁 [tg8999407970] Пакетное обновление завершено: успешно 10, ошибок 0
+[2026-10-14T20:56:50.163Z] [info] ✏️ [tg8999407970] Запуск пакетного обновления 99 медиафайлов (задержка 2с)...
+[2026-10-14T20:56:50.273Z] [success] ✅ [tg8999407970] [1/99] Обновлено: [9474037] "Смотри описание там сочно"
+[2026-10-14T20:56:52.399Z] [success] ✅ [tg8999407970] [2/99] Обновлено: [9474036] "Смотри описание там сочно"
+[2026-10-14T20:56:54.527Z] [success] ✅ [tg8999407970] [3/99] Обновлено: [9474035] "Смотри описание там сочно"
+[2026-10-14T20:56:56.646Z] [success] ✅ [tg8999407970] [4/99] Обновлено: [9474034] "Смотри описание там сочно"
+[2026-10-14T20:56:58.718Z] [success] ✅ [tg8999407970] [5/99] Обновлено: [9473862] "Смотри описание там сочно"
+[2026-10-14T20:57:00.790Z] [success] ✅ [tg8999407970] [6/99] Обновлено: [9473861] "Смотри описание там сочно"
+[2026-10-14T20:57:03.080Z] [success] ✅ [tg8999407970] [7/99] Обновлено: [9473860] "Смотри описание там сочно"
+[2026-10-14T20:57:05.162Z] [success] ✅ [tg8999407970] [8/99] Обновлено: [9473859] "Смотри описание там сочно"
+[2026-10-14T20:57:07.242Z] [success] ✅ [tg8999407970] [9/99] Обновлено: [9473858] "Смотри описание там сочно"
+[2026-10-14T20:57:09.336Z] [success] ✅ [tg8999407970] [10/99] Обновлено: [9473857] "Смотри описание там сочно"
+[2026-10-14T20:57:11.439Z] [success] ✅ [tg8999407970] [11/99] Обновлено: [9473856] "Follow the link!"
+[2026-10-14T20:57:13.535Z] [success] ✅ [tg8999407970] [12/99] Обновлено: [9473855] "Follow the link!"
+[2026-10-14T20:57:15.630Z] [success] ✅ [tg8999407970] [13/99] Обновлено: [9473854] "Follow the link!"
+[2026-10-14T20:57:17.712Z] [success] ✅ [tg8999407970] [14/99] Обновлено: [9473803] "Follow the link!"
+[2026-10-14T20:57:19.823Z] [success] ✅ [tg8999407970] [15/99] Обновлено: [9473802] "Follow the link!"
+[2026-10-14T20:57:21.916Z] [success] ✅ [tg8999407970] [16/99] Обновлено: [9473801] "Follow the link!"
+[2026-10-14T20:57:24.002Z] [success] ✅ [tg8999407970] [17/99] Обновлено: [9473800] "Follow the link!"
+[2026-10-14T20:57:26.088Z] [success] ✅ [tg8999407970] [18/99] Обновлено: [9473759] "Link in Down"
+[2026-10-14T20:57:28.168Z] [success] ✅ [tg8999407970] [19/99] Обновлено: [9473657] "Link in Down"
+[2026-10-14T20:57:30.249Z] [success] ✅ [tg8999407970] [20/99] Обновлено: [9473561] "Link in Down"
+[2026-10-14T20:57:32.285Z] [error] ❌ [tg8999407970] [21/99] Ошибка обновления [8546943] "9407856_123312.mp4": No matching file found or no changes made
+[2026-10-14T20:57:34.330Z] [error] ❌ [tg8999407970] [22/99] Ошибка обновления [8546328] "9406279_real content in desc__819.mp4": No matching file found or no changes made
+[2026-10-14T20:57:36.411Z] [error] ❌ [tg8999407970] [23/99] Ошибка обновления [8544399] "9450830_AMAZING IN THE DESC.mp4": No matching file found or no changes made
+[2026-10-14T20:57:38.452Z] [error] ❌ [tg8999407970] [24/99] Ошибка обновления [8544388] "9432129_077.mp4": No matching file found or no changes made
+[2026-10-14T20:57:40.488Z] [error] ❌ [tg8999407970] [25/99] Ошибка обновления [8544368] "9407939_just check desc.mp4": No matching file found or no changes made
+[2026-10-14T20:57:42.541Z] [error] ❌ [tg8999407970] [26/99] Ошибка обновления [8538052] "9405544_Тгк Varenik_pro.mp4": No matching file found or no changes made
+[2026-10-14T20:57:44.575Z] [error] ❌ [tg8999407970] [27/99] Ошибка обновления [8538018] "9430109_Video (12).mp4": No matching file found or no changes made
+[2026-10-14T20:57:46.614Z] [error] ❌ [tg8999407970] [28/99] Ошибка обновления [8537999] "9404097_You're Missing What's In The Description.mp4": No matching file found or no changes made
+[2026-10-14T20:57:48.644Z] [error] ❌ [tg8999407970] [29/99] Ошибка обновления [8537984] "9408846_the description hits way different.mp4": No matching file found or no changes made
+[2026-10-14T20:57:50.683Z] [error] ❌ [tg8999407970] [30/99] Ошибка обновления [8537976] "9408694_first time blwjb….(d3sc more).mp4": No matching file found or no changes made
+[2026-10-14T20:57:52.746Z] [error] ❌ [tg8999407970] [31/99] Ошибка обновления [8537950] "9445950_video_2025-07-20_15-15-29.mp4": No matching file found or no changes made
+[2026-10-14T20:57:54.779Z] [error] ❌ [tg8999407970] [32/99] Ошибка обновления [8537913] "9452220_another one-Vid.mp4": No matching file found or no changes made
+[2026-10-14T20:57:56.822Z] [error] ❌ [tg8999407970] [33/99] Ошибка обновления [8537904] "9408522_0500.mp4": No matching file found or no changes made
+[2026-10-14T20:57:58.852Z] [error] ❌ [tg8999407970] [34/99] Ошибка обновления [8537891] "9405843_в описании больше.mp4": No matching file found or no changes made
+[2026-10-14T20:57:58.960Z] [warn] [BatchEdit] Запрошена остановка пакетного обновления для аккаунта #3
+[2026-10-14T20:57:59.053Z] [warn] ⏹️ [tg8999407970] Пакетное обновление прервано пользователем (34/99)
+[2026-10-14T20:57:59.054Z] [info] 🏁 [tg8999407970] Пакетное обновление завершено: успешно 20, ошибок 14
+[2026-10-14T22:23:03.671Z] [success] [tg8999407970] Cookie обновлена
+[2026-10-14T22:23:31.092Z] [info] ▶️ [tg8355366384] Цикл публикации запущен
+[2026-10-14T22:23:31.134Z] [success] [tg8355366384] API ключ получен
+[2026-10-14T22:23:31.136Z] [info] [tg8355366384] Модификация метаданных: 9455531_tn.mp4
+[2026-10-14T22:23:31.439Z] [success] [Watermark] Видео успешно обработано с водяным знаком
+[2026-10-14T22:23:31.440Z] [success] [tg8355366384] Файл модифицирован
+[2026-10-14T22:23:31.440Z] [info] [tg8355366384] Метаданные: "BEST SEXY T33N" / "Watch the full version in profile"
+[2026-10-14T22:23:31.442Z] [info] [tg8355366384] Загрузка: 9455531_tn.mp4
+[2026-10-14T22:23:34.772Z] [info] 📝 saveMetadata: isVideo=true, title="BEST SEXY T33N", caption="Watch the full version in profile...", fileId=8548087
+[2026-10-14T22:23:34.772Z] [info] 📝 POST body: title=BEST%20SEXY%20T33N&caption=Watch%20the%20full%20version%20in%20profile&fileId=8548087&key=eyJ2IjoxLCJ1aWQiOjMxOTUxNTEsInNpZCI6Ijg4NjkzMjI5ZTk0NGI0ZDUwZWY3MmFjMzM1OTY2ZThmOGQwODU0OGM2ZGYwYWQ0M2Fh...
+[2026-10-14T22:23:34.806Z] [info] 📝 saveMetadata response: {"success":true,"name":"BEST SEXY T33N","description":"Watch the full version in profile"}
+[2026-10-14T22:23:34.806Z] [info] [tg8355366384] Метаданные сохранены
+[2026-10-14T22:23:37.939Z] [success] ✅ [tg8355366384] Опубликовано: 9455531_tn.mp4
+[2026-10-14T22:23:37.938Z] [info] 🚀 publish response: {"success":true}
+[2026-10-14T22:23:37.997Z] [info] [tg8355366384] Пауза 5 мин
+[2026-10-14T22:24:27.054Z] [info] ⏹️ [tg8355366384] Цикл остановлен
